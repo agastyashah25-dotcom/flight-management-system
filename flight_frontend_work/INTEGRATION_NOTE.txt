@@ -1,0 +1,1 @@
+Do not paste your SQL into React. SQL belongs in MySQL; Express exposes APIs; React consumes the APIs. See README.md and src/services/api.js.
